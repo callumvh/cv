@@ -29,7 +29,7 @@ callumvanheerden\@outlook.com |
   inset: 5pt,
   // fill: rgb("e4e5ea"),
   width: 100%,
-  // stroke: none,
+  stroke: none,
 )
 
 #grid(
@@ -80,7 +80,7 @@ callumvanheerden\@outlook.com |
   gutter: 0pt,
   rect[
     #link("https://www.bhs.co.za/")[*Benoni High School*] \
-    _Studied IT from Grade 10 - 12_
+    Matric NSC - _Studied IT from Grade 10 - 12_ 
      
   ],
   rect[
@@ -113,29 +113,20 @@ callumvanheerden\@outlook.com |
 = Projects
 #chiline()
 
-- *Homelab*: This is my most recent personal project #h(1fr) \
+- *Homelab*: This is an overkill homelab where I use Kubernetes (K3S distro) #h(1fr) \
+
+- *Interest calculator*: This was a simple interest calculator as a tech-challenge
+  which was required for landing my job at VeriShare #h(1fr) \ 
 
 
-- *T Shirt Viewer* #h(1fr) \ 
+- *Reddit clone*: I created a
+  clone of Reddit.com using their API. I
+  used Python and Flask to build the application, you could go to any subreddit
+  and see all the popular posts but it was read-only. #h(1fr) \
 
+- *T Shirt Viewer*: This was a simple Vue.js project where you could design a t-shirt by uploading an image and placing it on the front and back of a t-shirt #h(1fr) \ 
 
 - *CV*: This CV was created using Typst, which is a markup-based typesetting
   system and alternative to Latex/MS Word for document creation. Here is the link
   to the repo: #link("https://github.com/callumvh/cv")[callumvh/cv]
   #h(1fr) 
-
-- *Stitch Money API Android App(Incomplete)*: This was an incomplete Android app
-  where the idea was to have a budgeting feature using real bank data from the
-  Nedbank API indirectly through the Stitch API. I got as far as creating a graph
-  of an account balance over time using their test API. I used Jetpack Compose for
-  Android. #h(1fr) \ 
-
-- *Interest calculator*: This was a simple interest calculator as a tech-challenge
-  which was required for landing my job at VeriShare #h(1fr) \ 
-
-// - *Evetech-clone*: This was a basic frontend clone of the website evetech.co.za using Stencil.js #h(1fr) \ 
-
-- *Reddit-clone*: This was one of of my favourite personal projects, I created a
-  clone of Reddit.com using their API (before it was exorbitantly expensive). I
-  used Python and Flask to build the application, you could go to any subreddit
-  and see all the popular posts but it was read-only. #h(1fr) \
