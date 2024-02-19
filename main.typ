@@ -175,3 +175,15 @@ callumvanheerden\@outlook.com |
   system and an alternative to LaTeX/MS Word for document creation. Here is the
   link to the repo: #link("https://github.com/callumvh/cv")[callumvh/cv]
   #h(1fr)
+
+= Interests
+- Kubernetes
+- Database Management
+- API Integrations
+- Development Tools and Scripts
+- DevOps/GitOps Concepts
+- Statistics
+- Home Infrastructure Projects
+- Progressive Delivery
+- Document Creation and Typesetting
+- Continuous Learning and Technology Exploration
