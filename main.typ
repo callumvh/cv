@@ -19,7 +19,8 @@
 
 = Callum van Heerden
 
-callumvanheerden\@outlook.com | 081-794-7165 | #link("https://github.com/callumvh")[github.com/callumvh] | #link("https://www.callumvh.com/")[callumvh.com] | Potchefstroom NW, South Africa
+callumvanheerden\@outlook.com | 081-794-7165 | #link("https://github.com/callumvh")[github.com/callumvh] | #link("https://www.callumvh.com/")[callumvh.com] |
+Potchefstroom NW, South Africa
 
 = Work Experience
 #chiline()
@@ -39,7 +40,7 @@ callumvanheerden\@outlook.com | 081-794-7165 | #link("https://github.com/callumv
     == Verishare Software (Junior Software Developer)
   ],
   rect[
-     
+
     #align(end, text(1em)[2021/05 -- present])],
   rect[
     - *Telegram Chatbot*: I built a Telegram chatbot from scratch to production for
@@ -57,88 +58,48 @@ callumvanheerden\@outlook.com | 081-794-7165 | #link("https://github.com/callumv
       - Reactive streams with Spring Reactive, WebFlux, Mono, used with Spring
         Statemachine and the TelegramBots library
       - Built a PlantUML chart exporter for the Statemachine diagram
-     
-    - *Database as Code Project*: Worked on converting our largest database into an idempotent "database
-      project" using SSDT (SQL Server Data Tools), which allows you to define your
-      schema as code, allowing you to rebuild it from scratch and use source control
-      to track changes over time. The project is about 90% complete so we have not yet
-      made the migration. #h(1fr)\
-     
+
+    - *Database as Code Project*: Worked on converting our largest database into an
+      idempotent "database project" using SSDT (SQL Server Data Tools), which allows
+      you to define your schema as code, allowing you to rebuild it from scratch and
+      use source control to track changes over time. The project is about 90% complete
+      so we have not yet made the migration. #h(1fr)\
+
     - *PayAt API integration*: I worked on upgrading a legacy SOAP integration with
       PayAt to their new REST API using Spring Boot, utilized an OpenAPI/Swagger
       Spring code generator #h(1fr)\
-     
-    - *Business applications*: 
+
+    - *Business applications*:
       - I worked on VPS, which is a scheduling application for C\#/dotnet applications,
         used for handover imports, payment imports, etc.
       - I worked on VeriWeb, which is a Java/Spring application for exposing and
         consuming APIs, we also use it for many other things like managing recurring
         card payments and our office dashboard monitoring tool.
       - Worked on VeriNet, which is a large desktop application built using Clarion and
-        used by our agents when communicating with debtors. 
+        used by our agents when communicating with debtors.
       - I created and maintained many SQL Server stored procedures (where most of our
         business logic is stored), I also have a lot of experience with querying and
         joining data, as well as creating reports in SQL.
-     
+
     - *VeriCred Credit Bureau (VCCB) API integration*: Integrated with the VCCB API to
       retrieve personal data about certain debtors in VeriNet #h(1fr)\
-     
-     
+
     - *VeriNet scripts using PowerShell*: Worked on improving the developer experience
       by heavily utilizing PowerShell scripts to compile VeriNet (which requires a
       32-bit VM to do any development), it reduced the time from when you make a code
       change to seeing the change when running locally. #h(1fr)\
-     
+
     - *Voyc.ai development*: I worked on importing prediction data from a third-party
       integration called Voyc.ai; they converted our agent calls to text and tried to
       measure how well they followed their script, etc. I worked on screens in VeriNet
       which would show information about that data.
-     
+
     - *USA branch*: I worked on API integrations for our USA branch which has since
       closed down. I utilized the Merchant-E API and IntelliPay API for payment
       imports.
   ],
 )
 
-= Education
-#chiline()
-
-#grid(
-  columns: (4fr, 1fr),
-  // rows: (auto, 60pt),
-  gutter: 0pt,
-  rect[
-    #link("https://www.bhs.co.za/")[*Benoni High School*] \
-    Matric NSC - _Studied IT from Grade 10 - 12_ 
-     
-  ],
-  rect[
-    #align(end, text(1em)[2013 -- 2017])
-  ],
-  rect[#link("https://www.unisa.ac.za/")[*UNISA (part-time)*] \ ],
-  rect[ ],
-  rect[
-     
-    - _Diploma in Information Technology (discontinued to transition to BSc Computing)_ 
-  ],
-  rect[
-    #align(end, text(1em)[2020 -- 2022])
-  ],
-  rect[
-    - _Higher Certificate in Mathematics and Statistics (one module left) (working
-      towards BSc Computing)_ 
-  ],
-  rect[
-    #align(end, text(1em)[2020 -- 2022])
-  ],
-  rect[
-    - _Bachelor of Science in Computing (not started yet)_ 
-     
-  ],
-  rect[
-    #align(end, text(1em)[2024 --])
-  ],
-)
 = Projects
 #chiline()
 
@@ -155,8 +116,8 @@ callumvanheerden\@outlook.com | 081-794-7165 | #link("https://github.com/callumv
   - I also have private services running on subdomains such as
     service1.callumvh.com, service2.callumvh.com, etc.
   - It contains a *personal website* and *blog* which are both still under
-    development, created using Next.js Astro.js using the JAM stack, each running in their own
-    container.
+    development, created using Next.js Astro.js using the JAM stack, each running in
+    their own container.
   - I would like to add dark launches, feature flagging, testing in production,
     canary launches, blue-green deployments, A/B testing, and so on.
 
@@ -165,15 +126,55 @@ callumvanheerden\@outlook.com | 081-794-7165 | #link("https://github.com/callumv
   the popular posts, but it was read-only. #h(1fr) \
 
 - *Interest calculator*: This is a simple interest calculator which was a
-  tech-challenge required for landing my job at VeriShare #h(1fr) \ 
+  tech-challenge required for landing my job at VeriShare #h(1fr) \
 
 - *T Shirt Viewer*: This was a simple Vue.js project where you could design a
-  t-shirt by uploading an image and placing it on the front & back of a t-shirt #h(1fr) \ 
+  t-shirt by uploading an image and placing it on the front & back of a t-shirt #h(1fr) \
 
 - *CV*: This CV was created using Typst, which is a markup-based typesetting
   system and an alternative to LaTeX/MS Word for document creation. Here is the
   link to the repo: #link("https://github.com/callumvh/cv")[callumvh/cv]
   #h(1fr)
+
+= Education
+#chiline()
+
+#grid(
+  columns: (4fr, 1fr),
+  // rows: (auto, 60pt),
+  gutter: 0pt,
+  rect[
+    #link("https://www.bhs.co.za/")[*Benoni High School*] \
+    Matric NSC - _Studied IT from Grade 10 - 12_
+
+  ],
+  rect[
+    #align(end, text(1em)[2013 -- 2017])
+  ],
+  rect[#link("https://www.unisa.ac.za/")[*UNISA (part-time)*] \ ],
+  rect[ ],
+  rect[
+
+    - _Diploma in Information Technology (discontinued to transition to BSc Computing)_
+  ],
+  rect[
+    #align(end, text(1em)[2020 -- 2022])
+  ],
+  rect[
+    - _Higher Certificate in Mathematics and Statistics (one module left) (working
+      towards BSc Computing)_
+  ],
+  rect[
+    #align(end, text(1em)[2020 -- 2022])
+  ],
+  rect[
+    - _Bachelor of Science in Computing (not started yet)_
+
+  ],
+  rect[
+    #align(end, text(1em)[2024 --])
+  ],
+)
 
 = Interests
 - Kubernetes
