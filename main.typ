@@ -37,14 +37,11 @@ callumvanheerden\@outlook.com |
   // rows: (auto, 60pt),
   gutter: 0pt,
   rect[
-    #heading(level: 2, "Verishare Software (Junior Software Developer)") 
+    == Verishare Software (Junior Software Developer)
   ],
   rect[
      
-     #align(
-  end,
-  text(1em)[2021/05 -- present]  
-)],
+    #align(end, text(1em)[2021/05 -- present])],
   rect[
     - *Telegram Chatbot*: I built a Telegram chatbot from scratch to production for
       debtors to be able to see their accounts, pay their balance using PayAt, create
@@ -74,31 +71,45 @@ callumvanheerden\@outlook.com |
   ],
 )
 
-
-
-
-
- 
-
-
 = Education
 #chiline()
 
-#link("https://www.bhs.co.za/")[*Benoni High School*] #h(1fr) \
-_Studied IT from Grade 10 - 12_
-#h(1fr) 2013 -- 2017\
-
-#link("https://www.unisa.ac.za/")[*UNISA (part-time)*] 
-#h(1fr) \
-_Diploma in Information Technology (discontinued to transition to BSc Computing)_ 
-#h(1fr)2020 -- 2022\
-
-_Higher Certificate in Mathematics and Statistics (one module left) (working
-towards BSc Computing)_ 
-#h(1fr) 2023 -- 2024\
-
-_Bachelor of Science in Computing (not started yet)_ 
-#h(1fr) 2024 --\
+#grid(
+  columns: (4fr, 1fr),
+  // rows: (auto, 60pt),
+  gutter: 0pt,
+  rect[
+    #link("https://www.bhs.co.za/")[*Benoni High School*] \
+    _Studied IT from Grade 10 - 12_
+     
+  ],
+  rect[
+    #align(end, text(1em)[2013 -- 2017])
+  ],
+  rect[#link("https://www.unisa.ac.za/")[*UNISA (part-time)*] \ ],
+  rect[ ],
+  rect[
+     
+    - _Diploma in Information Technology (discontinued to transition to BSc Computing)_ 
+  ],
+  rect[
+    #align(end, text(1em)[2020 -- 2022])
+  ],
+  rect[
+    - _Higher Certificate in Mathematics and Statistics (one module left) (working
+      towards BSc Computing)_ 
+  ],
+  rect[
+    #align(end, text(1em)[2020 -- 2022])
+  ],
+  rect[
+    - _Bachelor of Science in Computing (not started yet)_ 
+     
+  ],
+  rect[
+    #align(end, text(1em)[2024 --])
+  ],
+)
 = Projects
 #chiline()
 
