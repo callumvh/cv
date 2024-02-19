@@ -45,8 +45,7 @@ Potchefstroom NW, South Africa
   rect[
     - *Telegram Chatbot*: I built a Telegram chatbot from scratch to production for
       debtors to be able to see their accounts, pay their balance using PayAt, create
-      repayment plans and create debit orders, all without talking to anybody (Almost
-      400 users). #h(1fr) \
+      repayment plans and create debit orders, all without needing to talk to any humans. It has been utilized by nearly 400 distinct users to date. #h(1fr) \
       - Java, Spring Boot
       - Spring Statemachine
       - rubenlagus/TelegramBots library
@@ -69,13 +68,13 @@ Potchefstroom NW, South Africa
       PayAt to their new REST API using Spring Boot, utilized an OpenAPI/Swagger
       Spring code generator #h(1fr)\
 
-    - *Business applications*:
-      - I worked on VPS, which is a scheduling application for C\#/dotnet applications,
+    - *Business applications which I have worked on*:
+      - VPS (VeriShare Process Service), which is a scheduling application for C\#/dotnet applications,
         used for handover imports, payment imports, etc.
-      - I worked on VeriWeb, which is a Java/Spring application for exposing and
+      - VeriWeb, which is a Java/Spring application for exposing and
         consuming APIs, we also use it for many other things like managing recurring
         card payments and our office dashboard monitoring tool.
-      - Worked on VeriNet, which is a large desktop application built using Clarion and
+      - VeriNet, which is a large desktop application built using Clarion and
         used by our agents when communicating with debtors.
       - I created and maintained many SQL Server stored procedures (where most of our
         business logic is stored), I also have a lot of experience with querying and
@@ -94,8 +93,7 @@ Potchefstroom NW, South Africa
       measure how well they followed their script, etc. I worked on screens in VeriNet
       which would show information about that data.
 
-    - *USA branch*: I worked on API integrations for our USA branch which has since
-      closed down. I utilized the Merchant-E API and IntelliPay API for payment
+    - *USA branch*: I worked on API integrations for our USA branch. I utilized the Merchant-E API and IntelliPay API for payment
       imports.
   ],
 )
@@ -178,6 +176,7 @@ Potchefstroom NW, South Africa
 
 = Interests
 - Kubernetes
+- Distributed Computing & Cloud Computing
 - Database Management
 - API Integrations
 - Development Tools and Scripts
