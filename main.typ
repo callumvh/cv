@@ -19,8 +19,7 @@
 
 = Callum van Heerden
 
-callumvanheerden\@outlook.com |
-#link("https://github.com/callumvh")[github.com/callumvh] | #link("https://www.callumvh.com/")[callumvh.com]
+callumvanheerden\@outlook.com | 081-794-7165 | #link("https://github.com/callumvh")[github.com/callumvh] | #link("https://www.callumvh.com/")[callumvh.com] | Potchefstroom NW, South Africa
 
 = Work Experience
 #chiline()
@@ -59,7 +58,7 @@ callumvanheerden\@outlook.com |
         Statemachine and the TelegramBots library
       - Built a PlantUML chart exporter for the Statemachine diagram
      
-    - *Database-as-code*: Worked on converting our largest database into an idempotent "database
+    - *Database as Code Project*: Worked on converting our largest database into an idempotent "database
       project" using SSDT (SQL Server Data Tools), which allows you to define your
       schema as code, allowing you to rebuild it from scratch and use source control
       to track changes over time. The project is about 90% complete so we have not yet
@@ -156,7 +155,7 @@ callumvanheerden\@outlook.com |
   - I also have private services running on subdomains such as
     service1.callumvh.com, service2.callumvh.com, etc.
   - It contains a *personal website* and *blog* which are both still under
-    development, created using Vercel and the JAM stack, both running in their own
+    development, created using Next.js Astro.js using the JAM stack, each running in their own
     container.
   - I would like to add dark launches, feature flagging, testing in production,
     canary launches, blue-green deployments, A/B testing, and so on.
