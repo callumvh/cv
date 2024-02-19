@@ -189,17 +189,15 @@ callumvanheerden\@outlook.com | 081-794-7165 | #link("https://github.com/callumv
 
 // Dear Gail,
 
-// I am writing to express my interest in the Intermediate Software Developer position at Dream Tech Labs. With a background in software development and a passion for problem-solving, I am excited about the opportunity to contribute to your team.
+// I’m writing to express my interest in the Intermediate Software Developer position at Dream Tech Labs. With a background in software development and a passion for problem-solving, I’m excited about the opportunity to contribute to your team!
 
-// Currently serving as a Junior Software Developer at Verishare Software, I have experience with C#, .NET, JavaScript, and SQL Server. Notable achievements include spearheading the development of a Telegram chatbot and contributing to database-as-code initiatives and API integrations.
+// Currently serving as a Junior Software Developer at VeriShare Software, I have experience with C#/.NET, Java, Javascript, Clarion and SQL Server. Notable achievements include spearheading the development of a Telegram chatbot and contributing to database-as-code initiatives as well as many API integrations.
 
-// Your emphasis on attributes such as communication skills, problem-solving abilities, and a passion for challenges resonates with me.
+// I’m genuinely intrigued by your company and notably impressed with your dedication to fostering a distributed team culture. Your commitment to remote work aligns seamlessly with my skills and preferences which would create an ideal environment for professional development.
 
-// I am particularly drawn to Dream Tech Labs's commitment to remote work and career growth prospects. As a remote-first company, I am well-equipped to thrive in a distributed environment, leveraging tools like Git and DevOps
+// I think my personal interests in topics like Kubernetes, DevOps, infrastructure and progressive delivery give me a unique blend of expertise and enthusiasm which would make me a valuable addition to your team.
 
-// In addition to my technical skills, my personal interests in Kubernetes, DevOps, and progressive delivery reflect my dedication to staying abreast of industry trends. I am confident that my blend of expertise and enthusiasm makes me a valuable addition to your team.
-
-// Thank you for considering my application. I look forward to discussing how my background aligns with the goals of Dream Tech Labs
+// Thank you for considering my application. I look forward to discussing how my background aligns with the goals of Dream Tech Labs.
 
 // Warm regards,
 
