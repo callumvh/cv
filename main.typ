@@ -187,3 +187,21 @@ callumvanheerden\@outlook.com |
 - Progressive Delivery
 - Document Creation and Typesetting
 - Continuous Learning and Technology Exploration
+
+// Dear Gail,
+
+// I am writing to express my interest in the Intermediate Software Developer position at Dream Tech Labs. With a background in software development and a passion for problem-solving, I am excited about the opportunity to contribute to your team.
+
+// Currently serving as a Junior Software Developer at Verishare Software, I have experience with C#, .NET, JavaScript, and SQL Server. Notable achievements include spearheading the development of a Telegram chatbot and contributing to database-as-code initiatives and API integrations.
+
+// Your emphasis on attributes such as communication skills, problem-solving abilities, and a passion for challenges resonates with me.
+
+// I am particularly drawn to Dream Tech Labs's commitment to remote work and career growth prospects. As a remote-first company, I am well-equipped to thrive in a distributed environment, leveraging tools like Git and DevOps
+
+// In addition to my technical skills, my personal interests in Kubernetes, DevOps, and progressive delivery reflect my dedication to staying abreast of industry trends. I am confident that my blend of expertise and enthusiasm makes me a valuable addition to your team.
+
+// Thank you for considering my application. I look forward to discussing how my background aligns with the goals of Dream Tech Labs
+
+// Warm regards,
+
+// Callum
