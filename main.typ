@@ -113,16 +113,21 @@ callumvanheerden\@outlook.com |
 = Projects
 #chiline()
 
-- *Homelab*: This is an overkill homelab where I use Kubernetes (K3S distro) #h(1fr) \
-
-- *Interest calculator*: This was a simple interest calculator as a tech-challenge
-  which was required for landing my job at VeriShare #h(1fr) \ 
-
+- *Homelab - callumvh.com*: This is an overkill home infrastructure for learning about DevOps/GitOps concepts, I use the following technologies:
+  - *Kubernetes* (K3S distro)
+  - *Cloudflare tunnels* and *Traefik* as a reverse tunnel/proxy (to expose services to the internet)
+  - *Flux CD* which is a "*GitOps* style" toolkit for Kubernetes deployments  #h(1fr) \
+  - *GitHub Actions* & Flux CD allow for a smooth CI/CD pipeline where the containers automatically get built and pushed to my container registry, flux cd automatically updates the kubernetes cluster by changing the version in the source code via a bot.
+  - I also have private services running on subdomains such as service1.callumvh.com, service2.callumvh.com etc
+  - It contains a *personal website* and *blog* which are both still under development, created using vercel and the JAM stack.
+  - I would like to add dark launches, feature flagging, testing in production, canary launches, blue-green deployments, A/B testing, and so on.
 
 - *Reddit clone*: I created a
   clone of Reddit.com using their API. I
   used Python and Flask to build the application, you could go to any subreddit
   and see all the popular posts but it was read-only. #h(1fr) \
+
+- *Interest calculator*: This is a simple interest calculator which was a tech-challenge required for landing my job at VeriShare #h(1fr) \ 
 
 - *T Shirt Viewer*: This was a simple Vue.js project where you could design a t-shirt by uploading an image and placing it on the front and back of a t-shirt #h(1fr) \ 
 
