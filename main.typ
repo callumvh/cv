@@ -3,7 +3,7 @@
 #show link: underline
 
 // Uncomment the following lines to adjust the size of text
-// The recommend resume text size is from `10pt` to `12pt`
+// The recommended resume text size is from `10pt` to `12pt`
 // #set text(
 //   size: 12pt,
 // )
@@ -56,7 +56,7 @@ callumvanheerden\@outlook.com |
       - Excel report generator for observability
       - E2E testing for the user flow
       - Reactive streams with Spring Reactive, WebFlux, Mono, used with Spring
-        Statemachine and the Telegram library
+        Statemachine and the TelegramBots library
       - Built a PlantUML chart exporter for the Statemachine diagram
      
     - *Database-as-code*: Worked on converting our largest database into an idempotent "database
@@ -66,39 +66,38 @@ callumvanheerden\@outlook.com |
       made the migration. #h(1fr)\
      
     - *PayAt API integration*: I worked on upgrading a legacy SOAP integration with
-      PayAt to their new REST API using Spring Boot, utilized a OpenAPI/Swagger Spring
-      code generator #h(1fr)\
+      PayAt to their new REST API using Spring Boot, utilized an OpenAPI/Swagger
+      Spring code generator #h(1fr)\
      
     - *Business applications*: 
       - I worked on VPS, which is a scheduling application for C\#/dotnet applications,
-        used for handover imports, payment imports etc
-      - I worked on VeriWeb which is a Java/Spring application for exposing and
-        consuming API's, we also use it for many other things like managing recurrind
+        used for handover imports, payment imports, etc.
+      - I worked on VeriWeb, which is a Java/Spring application for exposing and
+        consuming APIs, we also use it for many other things like managing recurring
         card payments and our office dashboard monitoring tool.
-      - Worked on VeriNet which is a large desktop application built using Clarion and
+      - Worked on VeriNet, which is a large desktop application built using Clarion and
         used by our agents when communicating with debtors. 
       - I created and maintained many SQL Server stored procedures (where most of our
         business logic is stored), I also have a lot of experience with querying and
         joining data, as well as creating reports in SQL.
      
     - *VeriCred Credit Bureau (VCCB) API integration*: Integrated with the VCCB API to
-      retreive personal data about certain debtors in VeriNet #h(1fr)\
+      retrieve personal data about certain debtors in VeriNet #h(1fr)\
      
      
-    - *VeriNet scripts using powershell*: Worked on improving the developer experience
-      by heavily utilizing powershell scripts to compile VeriNet (which requires a
+    - *VeriNet scripts using PowerShell*: Worked on improving the developer experience
+      by heavily utilizing PowerShell scripts to compile VeriNet (which requires a
       32-bit VM to do any development), it reduced the time from when you make a code
       change to seeing the change when running locally. #h(1fr)\
      
     - *Voyc.ai development*: I worked on importing prediction data from a third-party
-      integration called Voyc.ai, they converted our agent calls to text and tried to
-      measure how well they followed their script etc. I worked on screens in VeriNet
+      integration called Voyc.ai; they converted our agent calls to text and tried to
+      measure how well they followed their script, etc. I worked on screens in VeriNet
       which would show information about that data.
-    
+     
     - *USA branch*: I worked on API integrations for our USA branch which has since
       closed down. I utilized the Merchant-E API and IntelliPay API for payment
       imports.
-    - *CPB API*: Upgraded our integration with a third-party Credit Bureau called CPB.
   ],
 )
 
@@ -145,26 +144,26 @@ callumvanheerden\@outlook.com |
 #chiline()
 
 - *Homelab - callumvh.com*: This is an overkill home infrastructure for learning
-  about DevOps/GitOps concepts, I use the following technologies:
+  about DevOps/GitOps concepts. I use the following technologies:
   - *Kubernetes* (K3S distro)
   - *Cloudflare tunnels* and *Traefik* as a reverse tunnel/proxy (to expose services
     to the internet)
   - *Flux CD* which is a "*GitOps* style" toolkit for Kubernetes deployments #h(1fr) \
   - *GitHub Actions* & Flux CD allow for a smooth CI/CD pipeline where the
     containers automatically get built and pushed to my container registry, flux cd
-    automatically updates the kubernetes cluster by changing the version in the
+    automatically updates the Kubernetes cluster by changing the version in the
     source code via a bot.
   - I also have private services running on subdomains such as
-    service1.callumvh.com, service2.callumvh.com etc
+    service1.callumvh.com, service2.callumvh.com, etc.
   - It contains a *personal website* and *blog* which are both still under
-    development, created using vercel and the JAM stack, both running in their own
+    development, created using Vercel and the JAM stack, both running in their own
     container.
   - I would like to add dark launches, feature flagging, testing in production,
     canary launches, blue-green deployments, A/B testing, and so on.
 
 - *Reddit clone*: I created a clone of Reddit.com using their API. I used Python
-  and Flask to build the application, you could go to any subreddit and see all
-  the popular posts but it was read-only. #h(1fr) \
+  and Flask to build the application; you could go to any subreddit and see all
+  the popular posts, but it was read-only. #h(1fr) \
 
 - *Interest calculator*: This is a simple interest calculator which was a
   tech-challenge required for landing my job at VeriShare #h(1fr) \ 
@@ -173,6 +172,6 @@ callumvanheerden\@outlook.com |
   t-shirt by uploading an image and placing it on the front & back of a t-shirt #h(1fr) \ 
 
 - *CV*: This CV was created using Typst, which is a markup-based typesetting
-  system and alternative to Latex/MS Word for document creation. Here is the link
-  to the repo: #link("https://github.com/callumvh/cv")[callumvh/cv]
+  system and an alternative to LaTeX/MS Word for document creation. Here is the
+  link to the repo: #link("https://github.com/callumvh/cv")[callumvh/cv]
   #h(1fr)
