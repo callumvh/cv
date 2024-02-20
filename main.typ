@@ -48,15 +48,14 @@ Potchefstroom NW, South Africa
       repayment plans and create debit orders, all without needing to talk to any humans. It has been utilized by nearly 400 distinct users to date. #h(1fr) \
       - Java, Spring Boot
       - Spring Statemachine
-      - rubenlagus/TelegramBots library
       - SQL Server and Stored Procedures for Statemachine session persistence and
         logging
-      - Event-driven model
       - Excel report generator for observability
       - E2E testing for the user flow
       - Reactive streams with Spring Reactive, WebFlux, Mono, used with Spring
         Statemachine and the TelegramBots library
-      - Built a PlantUML chart exporter for the Statemachine diagram
+      - Built a PlantUML chart exporter for the Statemachine diagrams
+      - *Chatbot Frontend*: I also built a web-based frontend for the chatbot using React.js on the frontend, sharing the same Spring Statemachine backend. (Not in production yet)
 
     - *Database as Code Project*: Worked on converting our largest database into an
       idempotent "database project" using SSDT (SQL Server Data Tools), which allows
@@ -85,8 +84,7 @@ Potchefstroom NW, South Africa
 
     - *VeriNet scripts using PowerShell*: Worked on improving the developer experience
       by heavily utilizing PowerShell scripts to compile VeriNet (which requires a
-      32-bit VM to do any development), it reduced the time from when you make a code
-      change to seeing the change when running locally. #h(1fr)\
+      32-bit VM), it reduced the feedback loop during local development. #h(1fr)\
 
     - *Voyc.ai development*: I worked on importing prediction data from a third-party
       integration called Voyc.ai; they converted our agent calls to text and tried to
