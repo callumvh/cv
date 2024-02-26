@@ -61,7 +61,7 @@ Potchefstroom NW, South Africa
       idempotent "database project" using SSDT (SQL Server Data Tools), which allows
       you to define your schema as code, allowing you to rebuild it from scratch and
       use source control to track changes over time. The project is about 90% complete
-      so we have not yet made the migration. #h(1fr)\
+      so we have not yet made the migration. I created powershell scripts to parse \~4000 stored procedures to alter their format. #h(1fr)\
 
     - *PayAt API integration*: I worked on upgrading a legacy SOAP integration with
       PayAt to their new REST API using Spring Boot, utilized an OpenAPI/Swagger
