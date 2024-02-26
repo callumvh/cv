@@ -121,6 +121,8 @@ Potchefstroom NW, South Africa
   and Flask to build the application; you could go to any subreddit and see all
   the popular posts, but it was read-only. #h(1fr) \
 
+- *Nand2Tetris*: I have successfully completed the first part of the Nand to Tetris course, where I systematically built a computer platform from the ground up, this involved progressing through distinct layers of abstraction, starting with fundamental Boolean logic in Chapter 1, where I learned and implemented basic logical components using Nand gates. Subsequent chapters introduced more complexities, covering Boolean arithmetic, sequential logic, and machine language. The transition to understanding computer architecture in Chapter 5 involved implementing the Hack hardware platform based on specifications, while Chapter 6 delved into creating an assembler for translating assembly code to machine code. This process not only equipped me with hands-on experience in constructing a computer system but also provided a profound understanding of the underlying principles governing each abstraction layer. I learned many foundational concepts in computing along the way.
+
 - *Interest calculator*: This is a simple interest calculator which was a
   tech-challenge required for landing my job at VeriShare #h(1fr) \
 
@@ -189,7 +191,7 @@ Potchefstroom NW, South Africa
 
 // I’m writing to express my interest in the Intermediate Software Developer position at Dream Tech Labs. With a background in software development and a passion for problem-solving, I’m excited about the opportunity to contribute to your team!
 
-// Currently serving as a Junior Software Developer at VeriShare Software, I have experience with C#/.NET, Java, Javascript, Clarion and SQL Server. Notable achievements include spearheading the development of a Telegram chatbot and contributing to database-as-code initiatives as well as many API integrations.
+// Currently serving as a Junior Software Developer at VeriShare Software, I have experience with C#/.NET, Java, Javascript, Clarion SQL Server and more. Notable achievements include spearheading the development of a Telegram chatbot and contributing to database-as-code initiatives as well as many API integrations.
 
 // I’m genuinely intrigued by your company and notably impressed with your dedication to fostering a distributed team culture. Your commitment to remote work aligns seamlessly with my skills and preferences which would create an ideal environment for professional development.
 
